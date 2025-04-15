@@ -3,6 +3,9 @@
 Read the intructions [HERE](./instructions.md)
 
 
+## Final result
+![Final result](./assets/doc/image.png)
+
 ## Plan
 First, I searched for a timeline at Dribbble. Found [this](https://dribbble.com/shots/24713025-SaaS-Gantt-Timeline-View) good example for desktop:
 ![Desktop timeline](./assets/doc/timeline_desktop.png)
